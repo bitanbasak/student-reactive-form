@@ -20,6 +20,17 @@
         "TV Series"
       ],
       "id": 3
+    },
+    {
+      "studentName": "Adhiraj",
+      "email": "adhiraj@gmail.com",
+      "address": "Pune",
+      "gender": "Male",
+      "hobby": [
+        "Coding",
+        "Sleeping"
+      ],
+      "id": 4
     }
   ]
 }

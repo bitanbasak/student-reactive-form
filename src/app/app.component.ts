@@ -31,7 +31,6 @@ export class AppComponent implements OnInit {
 
   onSubmit() {
     this.studentData = this.studentRegisterForm.value;
-    console.log(this.studentData);
     this.studentsService.addStudent(this.studentData).subscribe(
       data => this.studentArray.push(data),
       error => (this.errMessage = error.message)
