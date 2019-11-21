@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "studentName": "Bitan Basak",
+      "email": "basakbitan@gmail.com",
+      "address": "Kolkata",
+      "gender": "Male",
+      "hobby": [
+        "Sports",
+        "Music"
+      ],
+      "id": 1
+    },
+    {
+      "studentName": "Ayush Kumar",
+      "email": "ayush@gmail.com",
+      "address": "Patna",
+      "gender": "Male",
+      "hobby": [
+        "TV Series"
+      ],
+      "id": 3
+    }
+  ]
+}
